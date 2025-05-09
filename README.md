@@ -87,4 +87,7 @@ Introduce ROI and Conversion Tracking if data available
 
 Export to Power BI for advanced analytics
 
+## Dashboard
+
+![Screenshot 2025-05-09 165031]
 
