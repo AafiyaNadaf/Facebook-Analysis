@@ -1,4 +1,4 @@
-# Facebook-Ads-Analysis-Dashboard(Interactive Dashboard creation using MS Excel)
+# Facebook-Ads-Analysis(Interactive Dashboard creation using MS Excel)
 This project is an interactive Facebook Ads Performance Dashboard built entirely in Microsoft Excel. It provides a clear and insightful visual analysis of advertising campaigns using Facebook Ads data. The dashboard allows users to track and assess ad performance over time, helping marketers and analysts make informed decisions based on key metrics.
 
 ## Features
