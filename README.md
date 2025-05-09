@@ -28,6 +28,7 @@ Conversion Metrics (optional, based on data availability)
 ### Slicers & Filters
 Includes slicers for filtering data by:
 Date
+
 Campaign name
 
 ### Calculated KPIs Using Excel Formulas
@@ -50,27 +51,39 @@ Facebook excel dashboard.xlsx: Main Excel file containing raw data, calculated m
 
 ## Tools Used
 Microsoft Excel (no external add-ins or Power Query used)
+
 Excel Tables, Named Ranges
+
 Pivot Tables
+
 Slicers & Charts
 
 ## Use Case
 This project is ideal for:
+
 Digital marketers tracking campaign performance
+
 Small business owners managing their ad spend
+
 Marketing analysts who want a quick, no-code solution
 
 
 ## How to Use
 Download or clone the repository
+
 Open Facebook excel dashboard.xlsx in Excel
+
 Replace the data in the Raw Data sheet with your own Facebook Ads report (keep column headers the same)
+
 The dashboard will automatically update with your new data
 
 ## Future Improvements (Ideas)
 Integrate Power Query for automated data cleaning
+
 Add date hierarchy filtering (year/month/day)
+
 Introduce ROI and Conversion Tracking if data available
+
 Export to Power BI for advanced analytics
 
 
