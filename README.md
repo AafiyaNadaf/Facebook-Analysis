@@ -51,7 +51,7 @@ Bar charts comparing clicks, spend, and impressions by campaign
 - <a href="https://github.com/AafiyaNadaf/Facebook-Analysis/blob/main/Facebook_Data.xlsx">Facebook Dataset</a>
 
 ## Project Structure
-Facebook excel dashboard.xlsx: Main Excel file containing raw data, calculated metrics, and the final dashboard.
+- <a href="https://github.com/AafiyaNadaf/Facebook-Analysis/blob/main/Facebook%20excel%20dashboard.xlsx">Facebook Ads Dashboard</a> : Main Excel file containing raw data, calculated metrics, and the final dashboard.
 
 ## Tools Used
 Microsoft Excel (no external add-ins or Power Query used)
